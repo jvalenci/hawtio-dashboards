@@ -19,7 +19,7 @@
       "title": "",
       "row": 3,
       "col": 1,
-      "size_x": 1,
+      "size_x": 5,
       "size_y": 1,
       "path": "jmx/attributes",
       "include": "app/jmx/html/attributes.html",
