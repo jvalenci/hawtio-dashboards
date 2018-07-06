@@ -28,6 +28,21 @@
         "nid": "root-org.apache.camel-camel-1-routes"
       },
       "hash": ""
+    },
+    {
+      "id": "w3",
+      "title": "",
+      "row": 3,
+      "col": 6,
+      "size_x": 1,
+      "size_y": 1,
+      "path": "jmx/attributes",
+      "include": "app/jmx/html/attributes.html",
+      "search": {
+        "tab": "activemq",
+        "nid": "root-org.apache.activemq-Broker-broker1-Queue"
+      },
+      "hash": ""
     }
   ],
   "id": "570551249f8411ae42",
