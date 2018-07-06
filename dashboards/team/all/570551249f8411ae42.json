@@ -1,0 +1,19 @@
+{
+  "title": "New Dashboard",
+  "group": "Personal",
+  "widgets": [
+    {
+      "id": "w1",
+      "title": "",
+      "row": 1,
+      "col": 1,
+      "size_x": 9,
+      "size_y": 2,
+      "path": "jmx/attributes",
+      "include": "app/jmx/html/attributes.html",
+      "search": {},
+      "hash": ""
+    }
+  ],
+  "id": "570551249f8411ae42"
+}
