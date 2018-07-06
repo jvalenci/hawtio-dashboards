@@ -13,7 +13,23 @@
       "include": "app/jmx/html/attributes.html",
       "search": {},
       "hash": ""
+    },
+    {
+      "id": "w2",
+      "title": "",
+      "row": 3,
+      "col": 1,
+      "size_x": 1,
+      "size_y": 1,
+      "path": "jmx/attributes",
+      "include": "app/jmx/html/attributes.html",
+      "search": {
+        "tab": "camel",
+        "nid": "root-org.apache.camel-camel-1-routes"
+      },
+      "hash": ""
     }
   ],
-  "id": "570551249f8411ae42"
+  "id": "570551249f8411ae42",
+  "uri": "/dashboards/team/all/570551249f8411ae42.json"
 }
